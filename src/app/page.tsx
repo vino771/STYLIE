@@ -66,7 +66,7 @@ export default function Home() {
   const categories = [
     { 
       name: 'WOMEN', 
-      image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=800&q=80',
+      image: '/images/img2.jpg',
       description: 'Fluid silks, satin slip dresses, and structured outerwear.',
       link: '/shop?category=women'
     },
@@ -157,7 +157,7 @@ export default function Home() {
               </div>
               {/* Premium image acting as looping slow motion video */}
               <img 
-                src="https://images.unsplash.com/photo-1614975058789-41316d0e2e9c?w=600&q=80" 
+                src="/images/img1.jpg"
                 alt="High-fashion premium silk sweater model"
                 className="w-full h-full object-cover scale-105"
               />
