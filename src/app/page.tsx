@@ -153,7 +153,7 @@ export default function Home() {
               <div className="absolute inset-0 bg-gradient-to-t from-brand-dark/40 via-transparent to-transparent z-10 flex flex-col justify-end p-6 text-brand-white">
                 <span className="text-[10px] tracking-wider uppercase font-inter text-brand-orange font-bold">ATELIER DROP</span>
                 <h3 className="font-poppins text-lg font-bold">Premium Silk Knitwear</h3>
-                <p className="font-montserrat text-xs font-semibold text-brand-white/80 mt-1">{formatINR(18999)}</p>
+                <p className="font-montserrat text-xs font-semibold text-brand-white/80 mt-1">{formatINR(1899)}</p>
               </div>
               {/* Premium image acting as looping slow motion video */}
               <img 
